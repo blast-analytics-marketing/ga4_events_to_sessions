@@ -1,5 +1,4 @@
 -------------------------------------
--- plear@blastam.com
 -- All credit goes to the Looker dev team for the approach below.
 -- This sql transforms events_ tables into sessions_ tables.
 -- I have set this up as a daily scheduled query partitioned by partition_date
